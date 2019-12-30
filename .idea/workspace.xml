@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b56ba32-338e-4b3b-bc05-e8cb0652a1e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/interfaces/com/company/AbstractBoard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/interfaces/com/company/BlackBoard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/interfaces/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/interfaces/com/company/WhiteBoard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/interfaces/com/company/Writable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/AbstractBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/BlackBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Carriable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Climbable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Eatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Monkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/WhiteBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Writable.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VhSSTjvyRGaglVWm6dHpoRnn0f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="interfaces" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b56ba32-338e-4b3b-bc05-e8cb0652a1e3" name="Default Changelist" comment="" />
+      <created>1577703833497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577703833497</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
